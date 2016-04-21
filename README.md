@@ -1,0 +1,4 @@
+# FelixRxBus
+
+一个简单的使用rxjava实现event事件传递的例子。
+之所以想用rxjava替换EventBus主要是因为个人比较喜欢rxjava的链条式表达式。
